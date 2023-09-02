@@ -52,6 +52,6 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Deepali Josh at [deepalijosh37@gmail.com].
 
 Thank you for your interest in this car sales prediction project!
