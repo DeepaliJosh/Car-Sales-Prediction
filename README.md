@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a data analysis and machine learning project focused on predicting car sales prices using a multiple linear regression model. The project aims to analyze various features of car listings and build a predictive model to estimate car prices accurately. The main steps of the project include:
+This repository contains a data analysis and machine learning project focused on predicting car sales prices using a multiple regression models. The project aims to analyze various features of car listings and build a predictive model to estimate car prices accurately. The main steps of the project include:
 
 1. Data Preprocessing: Cleaning and preprocessing the dataset, handling missing values, and ensuring data quality.
 
@@ -12,7 +12,7 @@ This repository contains a data analysis and machine learning project focused on
 
 4. Data Visualization: Visualizing relationships between different features and car prices using appropriate charts and graphs.
 
-5. Multiple Linear Regression Model: Building and training a multiple linear regression model to predict car prices based on the selected features.
+5. Fitting Multiple Regression Models: Building and training a multiple regression models to predict car prices based on the selected features.
 
 6. Model Evaluation: Evaluating the model's performance using appropriate metrics and techniques, such as R-squared and data visualization.
 
