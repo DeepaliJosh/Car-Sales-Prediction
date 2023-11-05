@@ -1,4 +1,4 @@
-# Car Sales Prediction: Utilizing Multiple Linear Regression Model
+# Car Sales Prediction: Utilizing Multiple Regression Model
 
 ## Project Overview
 
